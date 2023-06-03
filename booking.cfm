@@ -33,7 +33,6 @@
                             <a href="booking.cfm" class="dropdown-item active">Booking</a>
                             <a href="team.cfm" class="dropdown-item">Travel Guides</a>
                             <a href="testimonial.cfm" class="dropdown-item">Testimonial</a>
-                            <a href="404.cfm" class="dropdown-item">404 Page</a>
                         </div>
                     </div>
                     <a href="contact.cfm" class="nav-item nav-link">Contact</a>
